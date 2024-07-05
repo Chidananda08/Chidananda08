@@ -6,18 +6,23 @@ Hello there! Thank you for dropping by my GitHub profile. Here, you'll discover 
 I'm Chidananda Parida, a dedicated software developer deeply entrenched in the realms of web development. My enthusiasm lies in harnessing technology to tackle real-world challenges, driving me to continuously learn and evolve in this dynamic field.
 
 **Technologies I Work With:**
+Frontend-
 - HTML
 - CSS
 - JavaScript
 - React
+- 
+Backend-
 - Python
 - Node.js
+- Express
+
 
 **Frameworks:**
 - Bootstrap
 
 **Databases:**
-- SQL
+- SQLITE
 - DBMS
 
 **Get in Touch:**
