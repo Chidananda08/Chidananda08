@@ -11,7 +11,7 @@ Frontend-
 - CSS
 - JavaScript
 - React
-- 
+  
 Backend-
 - Python
 - Node.js
